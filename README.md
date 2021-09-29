@@ -1,8 +1,6 @@
 # python-devfile
 
-blah
-again
-and again
+For summit
 
 
 
