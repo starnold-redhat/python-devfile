@@ -1,10 +1,6 @@
 # python-devfile
 
 For summit
-
-  
-  
-  
   
   
   
