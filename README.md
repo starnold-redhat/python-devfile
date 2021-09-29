@@ -1,6 +1,6 @@
 # python-devfile
 
-For summit
+For summit 2
 
 
 
